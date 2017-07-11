@@ -1,2 +1,2 @@
 # BulletBuddy
-Attempt to create a BulletJournal App for Android
+Attempt to create a BulletJournal App for Android 
